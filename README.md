@@ -1,0 +1,2 @@
+# angular2Mind
+develop分之下主要写了angular2的一些重要思想
